@@ -46,7 +46,7 @@ jupyter notebook
 
 ## Dependencies
 
-- Python 3.8+
+- Python 3.12+
 - pandas
 - numpy
 - matplotlib
